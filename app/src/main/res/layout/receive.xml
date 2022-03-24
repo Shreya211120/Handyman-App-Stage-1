@@ -9,7 +9,7 @@
         android:layout_height="wrap_content"
         android:background="@drawable/button_format"
         android:layout_marginLeft="5dp"
-        android:layout_marginTop="5dp">
+        android:layout_marginTop="6dp">
 
         <TextView
             android:id="@+id/text_message_receive"

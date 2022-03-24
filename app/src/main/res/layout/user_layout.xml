@@ -11,7 +11,7 @@
         android:layout_marginTop="6dp"
         android:text="Shreya"
         android:textColor="#E65021"
-        android:textSize="25sp"
+        android:textSize="23sp"
         android:textStyle="normal" />
 
     <View

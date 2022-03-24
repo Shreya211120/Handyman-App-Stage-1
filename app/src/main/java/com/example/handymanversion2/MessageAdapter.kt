@@ -1,7 +1,6 @@
 package com.example.handymanversion2
 
 import android.content.Context
-import android.os.Message
 import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
@@ -9,10 +8,7 @@ import android.widget.TextView
 import androidx.recyclerview.widget.RecyclerView
 import com.google.firebase.auth.FirebaseAuth
 
-private val Message.senderId: String?
-    get() {return senderId}
-private val Message.message: CharSequence?
-    get() {return message}
+
 
 class MessageAdapter(val context: Context, val messageList: ArrayList<Message>):
     RecyclerView.Adapter<RecyclerView.ViewHolder>() {

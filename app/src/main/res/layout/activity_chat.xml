@@ -4,14 +4,15 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
+    android:background="@drawable/handybg_opacity"
     tools:context=".ChatActivity">
 
     <androidx.recyclerview.widget.RecyclerView
         android:id="@+id/recyclerview"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:layout_alignParentTop="true"
-        android:layout_above="@id/LinearLayout"/>
+        android:layout_above="@id/LinearLayout"
+        android:layout_alignParentTop="true" />
 
     <LinearLayout
         android:id="@+id/LinearLayout"
@@ -24,12 +25,13 @@
 
         <EditText
             android:id="@+id/messageBox"
+            android:background="@drawable/message_box_background"
             android:layout_width="wrap_content"
             android:layout_height="50dp"
             android:layout_weight="85"
             android:hint="Type a message"
-            android:layout_marginLeft="8dp"
-            android:paddingLeft="8dp"
+            android:layout_marginLeft="10dp"
+            android:paddingLeft="10dp"
             android:textColor="#ff7800"
             android:textColorHint="#ff7800"
             android:textSize="20sp"/>
