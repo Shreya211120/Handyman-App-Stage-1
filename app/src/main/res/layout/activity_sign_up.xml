@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".SignUp"
+    android:background="@drawable/sign_up_2">
+
+    <EditText
+        android:id="@+id/enter_email"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:autofillHints="emailAddress"
+        android:ems="13"
+        android:hint="Enter Email"
+        android:inputType="textEmailAddress"
+        app:layout_constraintBottom_toBottomOf="@+id/terms_conditions"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.496"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.595" />
+
+    <EditText
+        android:id="@+id/enter_name"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:autofillHints="emailAddress"
+        android:ems="13"
+        android:hint="Enter Name"
+        android:inputType="textEmailAddress"
+        android:textSize="18sp"
+        app:layout_constraintBottom_toBottomOf="@+id/terms_conditions"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.496"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.484" />
+
+    <TextView
+        android:id="@+id/sign_up_heading"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:fontFamily="@font/asul_bold"
+        android:text="Sign Up"
+        android:textColor="#C37B3B"
+        android:textSize="30sp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.302" />
+
+    <EditText
+        android:id="@+id/enter_password"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:autofillHints="password"
+        android:ems="13"
+        android:hint="Enter Password"
+        android:inputType="textPassword"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.496"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.629" />
+
+    <Button
+        android:id="@+id/sign_up_button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@drawable/button_format"
+        android:ems="7"
+        android:fontFamily="sans-serif-black"
+        android:text="Sign Up"
+        android:textColor="#C37B3B"
+        android:textSize="16sp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.497"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.768" />
+
+    <TextView
+        android:id="@+id/terms_conditions"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="By signing up I agree to Handyman's \n Terms and Conditions"
+        android:textAlignment="center"
+        android:textColor="#FFFFFF"
+        android:textStyle="normal"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.497"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.88" />
+
+    <Button
+        android:id="@+id/login_Btn"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@drawable/button_format"
+        android:text="Login"
+        android:textColor="#DC4A40"
+        android:textSize="17sp"
+        android:textStyle="bold"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.498"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.976" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>

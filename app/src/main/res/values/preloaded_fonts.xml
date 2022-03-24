@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="preloaded_fonts" translatable="false">
+        <item>@font/alatsi</item>
+        <item>@font/archivo_black</item>
+        <item>@font/asul_bold</item>
+        <item>@font/hammersmith_one</item>
+        <item>@font/titan_one</item>
+    </array>
+</resources>

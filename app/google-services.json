@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1080038788497",
+    "firebase_url": "https://handymanversion2-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "handymanversion2",
+    "storage_bucket": "handymanversion2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1080038788497:android:002ce6b7ef27ba64765e30",
+        "android_client_info": {
+          "package_name": "com.example.handymanversion2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1080038788497-k4gkc7k78r2rq5i8l3e5p6j37hdnebrp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCeGywtqT0JareSMEBkCcrkRi7cpoomCSE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1080038788497-k4gkc7k78r2rq5i8l3e5p6j37hdnebrp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

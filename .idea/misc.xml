@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Apps_Android/Error_Apps/Handyman-App-Stage--1-master/app/src/main/res/layout/activity_sign_up.xml" value="0.1" />
+        <entry key="..\:/Apps_Android/Error_Apps/Handyman-App-Stage--1-master/app/src/main/res/layout/main_activity2.xml" value="0.1" />
+        <entry key="..\:/Apps_Android/Error_Apps/Handyman-App-Stage--1-master/app/src/main/res/layout/user_layout.xml" value="0.1" />
+        <entry key="..\:/Apps_Android/Handyman App Jayanta/Handyman-App-Stage--1-master/app/src/main/res/drawable/button_format.xml" value="0.236" />
+        <entry key="..\:/Apps_Android/Handyman App Jayanta/Handyman-App-Stage--1-master/app/src/main/res/drawable/button_format_brown.xml" value="0.2385" />
+        <entry key="..\:/Apps_Android/Handyman App Jayanta/Handyman-App-Stage--1-master/app/src/main/res/drawable/button_format_rev.xml" value="0.236" />
+        <entry key="..\:/Apps_Android/Handyman App Jayanta/Handyman-App-Stage--1-master/app/src/main/res/drawable/message_box_background.xml" value="0.2385" />
+        <entry key="..\:/Apps_Android/Handyman App Jayanta/Handyman-App-Stage--1-master/app/src/main/res/layout/activity_chat.xml" value="0.3695652173913043" />
+        <entry key="..\:/Apps_Android/Handyman App Jayanta/Handyman-App-Stage--1-master/app/src/main/res/layout/activity_forgot_password.xml" value="0.20697463768115942" />
+        <entry key="..\:/Apps_Android/Handyman App Jayanta/Handyman-App-Stage--1-master/app/src/main/res/layout/activity_main.xml" value="0.20878623188405798" />
+        <entry key="..\:/Apps_Android/Handyman App Jayanta/Handyman-App-Stage--1-master/app/src/main/res/layout/activity_sign_up.xml" value="0.20697463768115942" />
+        <entry key="..\:/Apps_Android/Handyman App Jayanta/Handyman-App-Stage--1-master/app/src/main/res/layout/message_box_background.xml" value="0.20878623188405798" />
+        <entry key="..\:/Apps_Android/Handyman App Jayanta/Handyman-App-Stage--1-master/app/src/main/res/layout/receive.xml" value="0.2056159420289855" />
+        <entry key="..\:/Apps_Android/Handyman App Jayanta/Handyman-App-Stage--1-master/app/src/main/res/layout/sent.xml" value="0.2056159420289855" />
+        <entry key="..\:/Apps_Android/Handyman App Jayanta/Handyman-App-Stage--1-master/app/src/main/res/layout/user_layout.xml" value="0.2056159420289855" />
+        <entry key="..\:/Apps_Android/HandymanVersion2/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.2315" />
+        <entry key="..\:/Apps_Android/HandymanVersion2/app/src/main/res/drawable/button_bg_white.xml" value="0.242" />
+        <entry key="..\:/Apps_Android/HandymanVersion2/app/src/main/res/drawable/button_format.xml" value="0.242" />
+        <entry key="..\:/Apps_Android/HandymanVersion2/app/src/main/res/drawable/button_format_brown.xml" value="0.242" />
+        <entry key="..\:/Apps_Android/HandymanVersion2/app/src/main/res/drawable/ic_launcher_background.xml" value="0.2315" />
+        <entry key="..\:/Apps_Android/HandymanVersion2/app/src/main/res/drawable/ic_launcher_background1.xml" value="0.19199999414062519" />
+        <entry key="..\:/Apps_Android/HandymanVersion2/app/src/main/res/layout/activity_forgot_password.xml" value="0.2259963768115942" />
+        <entry key="..\:/Apps_Android/HandymanVersion2/app/src/main/res/layout/activity_login.xml" value="0.23505434782608695" />
+        <entry key="..\:/Apps_Android/HandymanVersion2/app/src/main/res/layout/activity_main.xml" value="0.25343999226562525" />
+        <entry key="..\:/Apps_Android/HandymanVersion2/app/src/main/res/layout/activity_sign_up.xml" value="0.25343999226562525" />
+        <entry key="..\:/Apps_Android/HandymanVersion2/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.112" />
+        <entry key="..\:/Apps_Android/HandymanVersion2/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.112" />
+        <entry key="..\:/Users/shrey/Desktop/Handyman App Jayanta/Handyman-App-Stage--1-master/app/src/main/res/drawable/button_format_brown.xml" value="0.163" />
+        <entry key="..\:/Users/shrey/Desktop/Handyman App Jayanta/Handyman-App-Stage--1-master/app/src/main/res/drawable/message_box_background.xml" value="0.163" />
+        <entry key="..\:/Users/shrey/Desktop/Handyman App Jayanta/Handyman-App-Stage--1-master/app/src/main/res/layout/activity_chat.xml" value="0.1" />
+        <entry key="..\:/Users/shrey/Desktop/Handyman App Jayanta/Handyman-App-Stage--1-master/app/src/main/res/layout/activity_main.xml" value="0.12" />
+        <entry key="..\:/Users/shrey/Desktop/Handyman App Jayanta/Handyman-App-Stage--1-master/app/src/main/res/layout/activity_menu.xml" value="0.14130434782608695" />
+        <entry key="..\:/Users/shrey/Desktop/Handyman App Jayanta/Handyman-App-Stage--1-master/app/src/main/res/layout/main_activity2.xml" value="0.184375" />
+        <entry key="..\:/Users/shrey/Desktop/Handyman App Jayanta/Handyman-App-Stage--1-master/app/src/main/res/layout/receive.xml" value="0.1" />
+        <entry key="..\:/Users/shrey/Desktop/Handyman App Jayanta/Handyman-App-Stage--1-master/app/src/main/res/layout/sent.xml" value="0.22" />
+        <entry key="..\:/Users/shrey/Desktop/Handyman App Jayanta/Handyman-App-Stage--1-master/app/src/main/res/layout/user_layout.xml" value="0.10666666666666667" />
+        <entry key="..\:/Users/shrey/Downloads/HandymanVersion2-master/app/src/main/res/layout/activity_forgot_password.xml" value="0.13541666666666666" />
+        <entry key="..\:/Users/shrey/Downloads/HandymanVersion2-master/app/src/main/res/layout/activity_login.xml" value="0.22" />
+        <entry key="..\:/Users/shrey/Downloads/HandymanVersion2-master/app/src/main/res/layout/activity_main.xml" value="0.13541666666666666" />
+        <entry key="..\:/Users/shrey/Downloads/HandymanVersion2-master/app/src/main/res/layout/activity_main2.xml" value="0.17753623188405798" />
+        <entry key="..\:/Users/shrey/Downloads/HandymanVersion2-master/app/src/main/res/layout/activity_sign_up.xml" value="0.14666666666666667" />
+        <entry key="..\:/Users/shrey/Downloads/HandymanVersion2-master/app/src/main/res/layout/activity_users.xml" value="0.17753623188405798" />
+        <entry key="..\:/Users/shrey/Downloads/HandymanVersion2-master/app/src/main/res/layout/main_activity2.xml" value="0.17753623188405798" />
+        <entry key="..\:/Users/shrey/Downloads/HandymanVersion2-master/app/src/main/res/layout/user_layout.xml" value="0.17753623188405798" />
+        <entry key="..\:/Users/shrey/Downloads/HandymanVersion2-master/app/src/main/res/layout/usermain.xml" value="0.17753623188405798" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
