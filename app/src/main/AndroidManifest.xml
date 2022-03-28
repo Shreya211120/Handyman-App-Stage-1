@@ -14,15 +14,10 @@
         <activity
             android:name=".ChatActivity"
             android:exported="false" />
-        <activity
-            android:name=".menu"
-            android:exported="false" />
-        <activity
-            android:name=".MainActivity2"
-            android:exported="false" />
-        <activity
-            android:name=".UsersActivity"
-            android:exported="false" />
+
+<!--        <activity-->
+<!--            android:name=".UsersActivity"-->
+<!--            android:exported="false" />-->
         <activity
             android:name=".MainActivity"
             android:exported="false" />

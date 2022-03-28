@@ -3,8 +3,10 @@ package com.example.handymanversion2
 import android.content.Intent
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import android.widget.Button
 import android.widget.EditText
 import android.widget.ImageView
+import android.widget.Toast
 import androidx.recyclerview.widget.LinearLayoutManager
 import androidx.recyclerview.widget.RecyclerView
 import com.google.firebase.auth.FirebaseAuth
@@ -17,6 +19,7 @@ class ChatActivity : AppCompatActivity() {
     private lateinit var messageAdapter: MessageAdapter
     private lateinit var messageList: ArrayList<Message>
     private lateinit var mDbRef: DatabaseReference
+    private lateinit var book_button : Button
 
     var receiverRoom: String? = null
     var senderRoom: String? = null
@@ -27,6 +30,7 @@ class ChatActivity : AppCompatActivity() {
 
         val name = intent.getStringExtra("name")
         val receiverUid = intent.getStringExtra("uid")
+
 
         val senderUid = FirebaseAuth.getInstance().currentUser?.uid
 
@@ -42,9 +46,18 @@ class ChatActivity : AppCompatActivity() {
         sendButton = findViewById(R.id.sendButton)
         messageList = ArrayList()
         messageAdapter = MessageAdapter(this, messageList)
+        book_button = findViewById(R.id.book_btn)
 
         chatRecyclerView.layoutManager = LinearLayoutManager(this)
         chatRecyclerView.adapter = messageAdapter
+
+        book_button.setOnClickListener{
+            Toast.makeText(
+                this@ChatActivity,
+                "You booked the Handyman",
+                Toast.LENGTH_SHORT
+            ).show()
+        }
 
         mDbRef.child("chats").child(senderRoom!!).child("messages")
             .addValueEventListener(object : ValueEventListener{
